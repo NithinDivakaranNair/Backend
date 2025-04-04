@@ -52,9 +52,4 @@ curl -X PUT http://localhost:3000/tasks/1 \
 curl -X DELETE http://localhost:3000/tasks/1
 ```
 
-## 📧 Contact
-Developed by Pratik Dhere (Web Team Lead, Osumare Marketing Solutions)
 
----
-
-> Note: This app uses **in-memory storage**. All tasks are lost when server restarts.
